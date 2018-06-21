@@ -1,0 +1,11 @@
+require 'pry'
+require 'nokogiri'
+require 'open-uri'
+require 'colorize'
+
+require_relative '../lib/top_companies/ceo'
+require_relative '../lib/top_companies/company_controller'
+require_relative '../lib/top_companies/company'
+require_relative '../lib/top_companies/scraper'
+require_relative '../lib/top_companies/sector'
+require_relative '../lib/top_companies/version'
