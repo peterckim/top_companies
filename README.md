@@ -1,6 +1,6 @@
 # TopCompanies
 
-This is a Ruby GEM that asks provides users information on top companies according to Fortune 500.
+This is a Ruby GEM that provides users information on top companies according to Fortune 500.
 
 ## Installation
 
